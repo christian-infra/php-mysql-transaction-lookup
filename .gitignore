@@ -1,0 +1,5 @@
+.env
+.env.*
+config.local.php
+secrets.php
+*.log
